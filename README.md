@@ -1,3 +1,16 @@
+#Insane Twitter Clone
+This is an twiiter clone created by me this uses many popular technolgies like _ React
+_ Firebase
+_ JSON
+_ Twitter API
+
+If you wanna see the web app click on this [InsaneTwitter](https://bit.ly/insanetwitterclone)
+
+This is preview Image of the app plus this is real time
+![Image of Insane Twitter](https://github.com/ElbinBinil/Insane-Twitter/blob/main/public/Capture%20Snip.PNG)
+
+If you want to ask me any doubt then DM in [Instagram](https://instagram.com/elbinbinil)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
