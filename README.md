@@ -1,8 +1,12 @@
-#Insane Twitter Clone
-This is an twiiter clone created by me this uses many popular technolgies like _ React
-_ Firebase
-_ JSON
-_ Twitter API
+# Insane Twitter Clone
+
+This is an twiiter clone created by me this uses many popular technolgies like
+
+- Tech Stack
+  - React
+  - Firebase
+  - JSON
+  - Twitter API
 
 If you wanna see the web app click on this [InsaneTwitter](https://bit.ly/insanetwitterclone)
 
